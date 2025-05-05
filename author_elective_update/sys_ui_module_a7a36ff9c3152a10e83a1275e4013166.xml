@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Occasions">a3a36ff9c3152a10e83a1275e4013163</application>
+        <filter/>
+        <name>Occasions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.occasions_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 03:12:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7a36ff9c3152a10e83a1275e4013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Occasions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_a7a36ff9c3152a10e83a1275e4013166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 03:12:35</sys_updated_on>
+        <table>x_58872_needit_occasions</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3965b71cdb3af55002d917291396198b</instance_id>
+        <instance_name>dev224621</instance_name>
+        <name>sys_ui_module_a7a36ff9c3152a10e83a1275e4013166</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Occasions">a3a36ff9c3152a10e83a1275e4013163</application><filter/><name>Occasions</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.occasions_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-05 03:12:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7a36ff9c3152a10e83a1275e4013166</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Occasions</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_a7a36ff9c3152a10e83a1275e4013166</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-05 03:12:35</sys_updated_on><table>x_58872_needit_occasions</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>381054488</payload_hash>
+        <record_name>Occasions</record_name>
+        <reverted_from/>
+        <source>5013f811c3916610e83a1275e40131b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 03:12:35</sys_created_on>
+        <sys_id>e7a36ff9c3152a10e83a1275e4013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1969e6e5ec20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 03:12:35</sys_updated_on>
+        <type>Module</type>
+        <update_guid>aba36ff9dd152a10345c0de82795b168</update_guid>
+        <update_guid_history>aba36ff9dd152a10345c0de82795b168:381054488</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 03:19:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1ec04a35f91645bd83da9aad037903e1</sys_id>
+        <sys_metadata>a7a36ff9c3152a10e83a1275e4013166</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Occasions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_a7a36ff9c3152a10e83a1275e4013166</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_a7a36ff9c3152a10e83a1275e4013166">e7a36ff9c3152a10e83a1275e4013169</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 03:19:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

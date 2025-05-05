@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>city</name>
+        <rest_message_function display_value="Get City Weather">364e9385c3d92610e83a1275e40131d6</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-02 19:33:03</sys_created_on>
+        <sys_id>8c27ef01c31d2610e83a1275e40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>city</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_8c27ef01c31d2610e83a1275e40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-02 19:33:03</sys_updated_on>
+        <type>string</type>
+        <value>London</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
