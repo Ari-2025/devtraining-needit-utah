@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-05-15 20:37:28">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Global Configurations</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>280fae1d83e12210a88f93b6feaad37c</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-15 20:37:27</sys_created_on>
+<sys_id>7eb23ed983252210a88f93b6feaad39e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-15 20:37:27</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_kmf_module_key_policy_25907e9583252210a88f93b6feaad3d5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy"><sys_kmf_module_key_policy action="INSERT_OR_UPDATE"><crypto_module display_value="global.com_glide_email_accounts_glideencrypter">d753266c5b0b201037ab33f43381c79b</crypto_module><key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type><last_enforced>2025-05-15 20:28:06</last_enforced><result>reject</result><sys_class_name>sys_kmf_module_key_policy</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-15 20:28:06</sys_created_on><sys_id>25907e9583252210a88f93b6feaad3d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_kmf_module_key_policy_25907e9583252210a88f93b6feaad3d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-15 20:28:06</sys_updated_on></sys_kmf_module_key_policy></record_update>]]></payload>
+<payload_hash>1650821000</payload_hash>
+<remote_update_set display_value="Global Configurations">7eb23ed983252210a88f93b6feaad39e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-15 20:37:27</sys_created_on>
+<sys_id>72b23ed983252210a88f93b6feaad39f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196d5a201410000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-15 20:37:27</sys_updated_on>
+<table/>
+<target_name/>
+<type>Crypto Module Key Policy</type>
+<update_domain>global</update_domain>
+<update_guid>a9907e95cf252210ac86849d0db284d7</update_guid>
+<update_guid_history>a9907e95cf252210ac86849d0db284d7:1650821000</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_856303e90a0a0bc50164129959388444</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Email sending enabled</description><ignore_cache>false</ignore_cache><is_private>true</is_private><name>glide.email.smtp.active</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2009-05-28 04:04:20</sys_created_on><sys_id>856303e90a0a0bc50164129959388444</sys_id><sys_mod_count>16</sys_mod_count><sys_name>glide.email.smtp.active</sys_name><sys_package display_value="System (apps/system2)" source="apps/system2">ec64d0235c2312104f3496f8659cf6b2</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_856303e90a0a0bc50164129959388444</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-15 20:32:07</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=856303e90a0a0bc50164129959388444"/></record_update>]]></payload>
+<payload_hash>-38161757</payload_hash>
+<remote_update_set display_value="Global Configurations">7eb23ed983252210a88f93b6feaad39e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-05-15 20:37:28</sys_created_on>
+<sys_id>fab23ed983252210a88f93b6feaad39f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>196d5a5afc40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-05-15 20:37:28</sys_updated_on>
+<table/>
+<target_name>glide.email.smtp.active</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>248172992b252210b8cf730d872c4d37</update_guid>
+<update_guid_history>248172992b252210b8cf730d872c4d37:-38161757,6d807541145022103fdd16880e743ea7:534706892,298075411a50221072934a7e7cfc3d88:-38161757</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
